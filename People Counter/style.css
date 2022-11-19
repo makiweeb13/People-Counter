@@ -1,0 +1,31 @@
+html {
+     background: url(https://se.schreder.com/sites/default/files/2019-06/railwaystations-metros-porto-portugal-schreder-dexo-dexo-neos-porto-sao-bento-gare-img_0942.jpg);
+     
+}
+
+body {
+     background: rgb(0, 0, 0, 0.4);
+     margin: 0 auto;
+     width: 100%;
+     padding: 100px 0 200px 0;
+     color: white;
+     text-align: center;
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 1.5rem;
+     user-select: none;
+    }
+
+button {
+     margin: 10px;
+     padding: 10px 20px;
+     font-size: 2rem;
+     cursor: pointer;
+     background-color: transparent;
+     color:beige;
+     border: none;
+}
+
+button:hover {
+     background-color: rgba(255, 228, 196, 0.2);
+     border-radius: 10px;
+}
